@@ -1,2 +1,2 @@
 # movies
-Project for leran django
+Project for learn django
